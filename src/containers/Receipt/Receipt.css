@@ -1,0 +1,7 @@
+.receipt {
+    width: 25%;
+    margin: 10px;
+}
+.list-group-item-action {
+    cursor: pointer;
+}
